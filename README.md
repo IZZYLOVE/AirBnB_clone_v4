@@ -155,5 +155,5 @@ No known bugs at this time.
 
 ## Authors
 Kingdom Adele - [Github](https://github.com/IZZYLOVE)
-Anoliefo Onyedika - [Github](https://github.com/DevMaxwell) e
+Anoliefo Onyedika - [Github](https://github.com/DevMaxwell) 
 
